@@ -28,13 +28,13 @@ education:
   courses:
     - course: PhD in Sociology
       institution: Ohio State University
-      year: 2021
+      year: 2026
     - course: MA in Psychology
       institution: Wake Forest University
-      year: 2019
+      year: 2021
     - course: BS in Psychology
       institution: Beijing Normal University
-      year: 2015
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
