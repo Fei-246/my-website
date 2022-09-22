@@ -6,7 +6,7 @@ title: Fei Xie
 superuser: true
 
 # Role/position/tagline
-role: Second-year PhD student
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
