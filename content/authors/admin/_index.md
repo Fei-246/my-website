@@ -67,4 +67,4 @@ I am Fei Xie. I am a second-year PhD student of sociology department at the [Ohi
 我的名字叫谢菲，我正在俄亥俄州立大学的社会学院就读博士二年级。我的研究兴趣包括文化、移民、教育、性别等。我有两个正在推进的项目，一个关注亚洲留学生的心理健康，另一个则是关于中国女性农民工的工作-家庭平衡问题。
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
