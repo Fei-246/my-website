@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-I am Fei Xie. I am a second-year PhD student of sociology department at the [Ohio State University] (https://sociology.osu.edu/). My research interest includes culture, immigration, education, and gender. I am currently working on a study focusing on Asian international students' mental health disadvantage, and a study about the work-fammily balance of Chinese women migrant workers.
+I am Fei Xie. I am a second-year PhD student of sociology department at the [Ohio State University](https://sociology.osu.edu/). My research interest includes culture, immigration, education, and gender. I am currently working on a study focusing on Asian international students' mental health disadvantage, and a study about the work-fammily balance of Chinese women migrant workers.
 
 我的名字叫谢菲，我正在俄亥俄州立大学的社会学院就读博士二年级。我的研究兴趣包括文化、移民、教育、性别等。我有两个正在推进的项目，一个关注亚洲留学生的心理健康，另一个则是关于中国女性农民工的工作-家庭平衡问题。
 
