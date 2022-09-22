@@ -49,13 +49,10 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=kL_o29kAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Fei-246
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -71,8 +68,9 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Fei Xie. I am a second-year PhD student of sociology department at the [Ohio State University] (https://sociology.osu.edu/). My research interest includes culture, immigration, education, and gender. I am currently working on a study focusing on Asian international students' mental health disadvantage, and a study about the work-fammily balance of Chinese women migrant workers.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+我的名字叫谢菲，我正在俄亥俄州立大学的社会学院就读博士二年级。我的研究兴趣包括文化、移民、教育、性别等。我有两个正在推进的项目，一个关注亚洲留学生的心理健康，另一个则是关于中国女性农民工的工作-家庭平衡问题。
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
