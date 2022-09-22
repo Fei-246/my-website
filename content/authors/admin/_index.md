@@ -44,6 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=kL_o29kAAAAJ&hl=en&oi=ao
@@ -51,12 +54,6 @@ social:
     icon_pack: fab
     link: https://github.com/Fei-246
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-  - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -65,7 +62,7 @@ email: ''
 highlight_name: true
 ---
 
-I am Fei Xie. I am a second-year PhD student of sociology department at the [Ohio State University](https://sociology.osu.edu/). My research interest includes culture, immigration, education, and gender. I am currently working on a study focusing on Asian international students' mental health disadvantage, and a study about the work-fammily balance of Chinese women migrant workers.
+I am Fei Xie. I am a second-year PhD student of sociology department at the [Ohio State University] (https://sociology.osu.edu/). My research interest includes culture, immigration, education, and gender. I am currently working on a study focusing on Asian international students' mental health disadvantage, and a study about the work-fammily balance of Chinese women migrant workers.
 
 我的名字叫谢菲，我正在俄亥俄州立大学的社会学院就读博士二年级。我的研究兴趣包括文化、移民、教育、性别等。我有两个正在推进的项目，一个关注亚洲留学生的心理健康，另一个则是关于中国女性农民工的工作-家庭平衡问题。
 
