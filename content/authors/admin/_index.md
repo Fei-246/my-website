@@ -14,21 +14,21 @@ organizations:
     url: https://sociology.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include culture, immigration, education, and gender.
+bio: My research interests include mental health, education, adolescents, and Chinese society.
 
 # Interests to show in About widget
 interests:
-  - Culture
-  - Immigration
+  - Mental Health
   - Education
-  - Gender
+  - Adolescents
+  - Chinese society
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Sociology
       institution: Ohio State University
-      year: 2026
+      year: 2026 (expected)
     - course: MA in Psychology
       institution: Wake Forest University
       year: 2021
